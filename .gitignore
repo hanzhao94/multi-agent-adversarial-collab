@@ -1,0 +1,5 @@
+# Internal working files
+agent_minimalist/
+agent_perfectionist/
+__pycache__/
+*.pyc
