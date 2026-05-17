@@ -80,6 +80,11 @@ See [joint_solution.md](joint_solution.md) for the final joint technical proposa
 3. **Core security costs less than you think** — 7 essential capabilities = ~200 extra lines of code
 4. **Multi-agent value = mutual restraint + blind-spot discovery** — Not "two heads are better than one"
 
+## Guides
+
+- 🇨🇳 [中文使用指南](GUIDE_CN.md) — 详细实验方法论 + 代码示例 + 常见场景
+- 🇬🇧 [English Usage Guide](GUIDE.md) — Full methodology + code examples + common scenarios
+
 ## Run Your Own
 
 This experiment framework can be reused:
